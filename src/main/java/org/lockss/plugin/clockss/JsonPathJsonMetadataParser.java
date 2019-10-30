@@ -298,7 +298,7 @@ public class JsonPathJsonMetadataParser {
 
   /**
    * <p>
-   * Determines if XML pre-filtering with {@link XmlFilteringInputStream} has
+   * Determines if XML pre-filtering with {@link JsonFilteringInputStream} has
    * been requested for this instance.
    * </p>
    *

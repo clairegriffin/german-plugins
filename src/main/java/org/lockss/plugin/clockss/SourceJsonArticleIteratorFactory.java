@@ -42,7 +42,7 @@ import org.lockss.util.Logger;
 
 //
 // A generic article iterator for CLOCKSS source plugins that want to iterate on
-// files that end in .xml at some level below the root directory.
+// files that end in .json at some level below the root directory.
 // The metadata extraction will be customized by publisher plugin but will use
 // the xml files provided by this article iterator
 // A child plugin can adapt this by changing the getIncludePatternTemplate and getExcludeSubTreePattern

@@ -95,7 +95,7 @@ public class SourceJsonMetadataExtractorTest
    * alternate constructor allows for custom setting of plugin params
    * In most cases, default shuld work
    */
-  public TestSourceJsonMetadataExtractor(
+  public SourceJsonMetadataExtractorTest(
       String inPName,
       String inBase, String inYear) {
     super();
